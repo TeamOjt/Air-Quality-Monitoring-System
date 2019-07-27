@@ -3,26 +3,35 @@ PIN CONFIGURATION
 [MQ-135 Sensor to Arduino Uno]
 
 -VCC to 5V
+
 -GND to GND
+
 -AO to A2
 
 [MQ-07 Sensor to Arduino Uno]
 
 -VCC to 5V
+
 -GND to GND
+
 -AO to A3
 
 [DHT11(3 pins) to Arduino Uno]
 
 -VCC to 5V
+
 -GND to GND
+
 -AO to pin 4
 
 [Laser PM2.5 dust sensor to Arduino Uno]
 
 -VCC to 5V
+
 -GND to GND
+
 -SCL to A4
+
 -SDA to A5
 
 [ESP8266-07 to Arduino Uno]
