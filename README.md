@@ -12,8 +12,6 @@ PARTS LIST
 
 -Laser PM2.5 Dust Sensor
 
--Power Supply (5V)
-
 -----------------------------------------------------
 PIN CONFIGURATION
 
