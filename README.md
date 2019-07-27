@@ -1,11 +1,17 @@
 PARTS LIST
 
 -Arduino Uno
+
 -ESP8266-07
+
 -DHT11
+
 -MQ-135
+
 -MQ-07
+
 -Laser PM2.5 Dust Sensor
+
 -Power Supply (5V)
 
 
