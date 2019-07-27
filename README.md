@@ -28,6 +28,9 @@ PIN CONFIGURATION
 [ESP8266-07 to Arduino Uno]
 
 -VCC and EN/CHE to 3.3V
+
 -GND and GPIO15 to GND
+
 -TX to pin 2
+
 -RX to pin 3
