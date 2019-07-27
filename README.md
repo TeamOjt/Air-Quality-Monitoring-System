@@ -14,7 +14,7 @@ PARTS LIST
 
 -Power Supply (5V)
 
-
+-----------------------------------------------------
 PIN CONFIGURATION
 
 [MQ-135 Sensor to Arduino Uno]
